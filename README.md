@@ -5,6 +5,13 @@
 ## Slack API
 https://api.slack.com/
 
+
+## Clone the project:
+
+```
+git clone https://github.com/MarcosSantosDev/slack-messaging.git
+```
+
 ## Project setup
 ```
 npm install
@@ -13,12 +20,6 @@ npm install
 ### Start application
 ```
 npm start
-```
-
-Clone the project:
-
-```
-git clone https://github.com/MarcosSantosDev/slack-messaging.git
 ```
 
 ## Author
